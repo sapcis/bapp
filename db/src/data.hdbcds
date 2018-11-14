@@ -1,0 +1,7 @@
+context data {
+
+    /*@@layout{"layoutInfo":{"x":295,"y":133.5}}*/
+    entity Books {
+        elem_1 : String(10);
+    };
+};
